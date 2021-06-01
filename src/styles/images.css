@@ -1,0 +1,33 @@
+/* Add your profile image here */
+.Photo {
+  background-image: url("../Images/Me.png");
+}
+/* Projects Photo */
+.project1 {
+  background-image: url("../Images/Project01.png");
+  cursor: none;
+}
+.project2 {
+  background-image: url("../Images/Project02.png");
+  cursor: none;
+}
+.project3 {
+  background-image: url("../Images/Project03.png");
+  cursor: none;
+}
+.project4 {
+  background-image: url("../Images/Project04.png");
+  cursor: none;
+}
+.project5 {
+  background-image: url("../Images/Project05.png");
+  cursor: none;
+}
+.project6 {
+  background-image: url("../Images/Project06.png");
+  cursor: none;
+}
+
+.parallax {
+  background-image: url("https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
